@@ -1,1 +1,3 @@
-# Cancer-Survivability-Classifier
+**Investigating the Role of the ‘Large p, Small n’ Problem in the Field of Personalised Oncology**
+
+This is part of my third-year disseration which revolves around creating a supervised learning model using transfer learning, that is able to learn from a large set of features without the risk of overfitting, to predict the survival outcome of breast cancer patients. The project involved investigating various factors such as the type of medical data used, the quantity of samples, the number of features, and the type of model. As a result, a transfer learning model trained on genetic mutations carried by patients suffering from different cancers were used to predict the survival outcome of breast cancer patients with 90%+ accuracy and F1 score.
